@@ -41,4 +41,4 @@ A Comments Body Object(JSON) is as follows.</p>
   text: "comment text"
 }
 </code>
- this will create a comment in the Post object.
+ this will create a comment in the Posts object.
