@@ -1,14 +1,18 @@
 # RESTful-Blog-API
 learning node express REST services
 
-To run the application.
+# To run the application.
 download the repository to ur local.
-open the terminal or command line in the directory having server.js and perform npm install, to load all node modules.
+open the terminal or command line in the directory having server.js and perform 
+<b>npm install</b>
+, to load all node modules.
+once the node module are installed, perform
+<b>node server.js</b>
 
 I have crated a on server store to keep the posts and comments.
 I tried to create a middleware for the comments services which checks whether any Blog Post present or not.
 
-Tests : 
+# Tests : 
 I performed test with the Postman.
 
 A Post Body Object(JSON) is as followes.
